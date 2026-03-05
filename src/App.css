@@ -276,6 +276,7 @@
   margin-right: 8px;
   background-size: contain;
   background-repeat: no-repeat;
+  filter: brightness(0) invert(1);
 }
 .footer-section .icon.email {
   background-image: url('https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg');
