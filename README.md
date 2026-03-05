@@ -4,7 +4,7 @@ This project is a React-based **Customer Support Zone** designed to display cust
 
 ---
 
-## 📚 Q&A (Questions in English, Answers in Bangla)
+## 📚 Question & Answer
 
 ---
 
