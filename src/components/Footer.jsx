@@ -18,7 +18,7 @@ export default function Footer() {
         <div className="footer-section">
           <h4>Services</h4>
           <ul>
-            <li><span className="dot" /> Products & Services</li>
+            <li>Products & Services</li>
             <li>Customer Stories</li>
             <li>Download Apps</li>
           </ul>
