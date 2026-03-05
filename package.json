@@ -7,9 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "gen:vector3": "node scripts/generate-vector3.mjs",
-    "gen:vector1": "node scripts/replace-vector1-from-3.mjs"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.2.0",
