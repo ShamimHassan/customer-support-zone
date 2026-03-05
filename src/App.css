@@ -1,0 +1,62 @@
+/* App layout */
+.csz-app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px 40px;
+}
+
+/* Navbar */
+.csz-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 80px;
+}
+.csz-navbar--elevated {
+  background: var(--panel);
+  border-bottom: 1px solid var(--border);
+}
+.csz-navbar .brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  font-size: 18px;
+}
+.csz-navbar .nav-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.csz-navbar .nav-actions a {
+  color: #334155;
+}
+.btn-primary {
+  background: #7c3aed;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 14px;
+}
+.btn-pill {
+  border-radius: 999px;
+  padding: 8px 16px;
+}
+.btn-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  margin-right: 6px;
+  background: rgba(255,255,255,0.2);
+  border-radius: 6px;
+}
+.btn-success {
+  background: #10b981;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 6px 12px;
+}
+
